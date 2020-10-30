@@ -6,15 +6,15 @@
 
 3. kemudian instal **Save As** Di Folder yang kamu suka.
 
-  jangan lupa untuk penamaan **"nama file.py"**
+   jangan lupa untuk penamaan **"nama file.py"**
 
 4. kemudian tulis kan code sebagai berikut
 
-  untuk output ketik `print()`
+   untuk output ketik `print()`
 
 5. kemudian klik `RUN atau bisa klik f5`
 
-  maka akan seperti gambar berikut
+   maka akan seperti gambar berikut
  
 6. masukan identitas user klik enter
 
